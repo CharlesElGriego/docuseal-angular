@@ -1,5 +1,5 @@
 {
-  "name": "@docuseal/angular",
+  "name": "@docuseal/angular-custom",
   "version": "1.0.2",
   "description": "DocuSeal Angular components to integrate documents signing process into apps. ✍️",
   "esm2022": "dist/esm2022/docuseal-angular.mjs",
@@ -43,7 +43,7 @@
     "documents"
   ],
   "files": [
-    "dist"
+    "**/*"
   ],
   "scripts": {
     "ng": "ng",
